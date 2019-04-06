@@ -12,6 +12,8 @@ public class Main {
         final int SNAKE_STARTING_X = SCREEN_WIDTH / 2;
         final int SNAKE_STARTING_Y = SCREEN_HEIGHT / 2;
 
+        // MAJA NIC NIE UMIE!!!
+
         // Init screen
         GameScreen screen = new GameScreen(SCREEN_WIDTH, SCREEN_HEIGHT);
         screen.InitScreen();
